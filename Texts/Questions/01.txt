@@ -1,0 +1,5 @@
+What are the key use cases driving the development of 6G technology?
+How do the traffic demands of 6G differ from previous generations of cellular technology?
+What are the challenges and proposed solutions related to spectrum allocation for 6G?
+How does the concept of an "AI-native network" apply to the development of 6G?
+What is the potential impact of generative AI on data traffic and how might semantic communication technologies mitigate this?
