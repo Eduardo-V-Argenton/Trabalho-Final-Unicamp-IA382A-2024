@@ -1,0 +1,5 @@
+1- What are the main differences between general-purpose LLMs and specialized LLMs?
+2- How does the concept of "approximate retrieval" help explain the workings of the transformer architecture?
+3- What evidence does Nogueira present to support his claim that specialization is a more efficient approach for developing better LLMs?]
+4- What are the potential drawbacks of specializing LLMs, and how does Nogueira address them?
+5- What does Nogueira predict for the future of LLMs?

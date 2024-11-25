@@ -1,0 +1,27 @@
+1-
+Scope: AGI (Artificial General Intelligence) has broad capabilities like human intelligence, while ANI (Artificial Narrow Intelligence) is specialized.
+Learning: AGI learns across domains; ANI learns within specific domains.
+Reasoning: AGI applies reasoning broadly; ANI applies reasoning narrowly.
+
+2-
+Computational Power: Insufficient processing capabilities.
+Memory Constraints: Limited data storage and retrieval.
+Energy Efficiency: High power consumption.
+Scalability: Difficulty scaling current architectures.
+
+3-
+Neuromorphic Chips: Mimic neural networks, efficient computation.
+Memristors: Improve memory, reduce power consumption.
+Quantum Computing: Exponential scaling, complex problem-solving.
+
+4-
+Autonomy: Balancing machine independence and human oversight.
+Control: Ensuring alignment with human values.
+Accountability: Assigning responsibility for AGI actions.
+Transparency: Explaining AGI decision-making.
+
+5-
+Innovation: Startups drive novel architectures.
+Agility: Faster development and iteration.
+Risk Tolerance: Exploring unconventional approaches.
+Partnerships: Collaborating with established companies.

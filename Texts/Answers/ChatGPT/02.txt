@@ -1,0 +1,9 @@
+1- AGI performs any intellectual task like a human, while ANI specializes in specific tasks without general reasoning.
+
+2- High computational power, energy efficiency, scalability, and memory bandwidth remain significant challenges.
+
+3- Neuromorphic chips and memristors mimic brain-like processing, enabling efficient learning and complex reasoning.
+
+4- Ensuring safety, preventing misuse, maintaining human control, and addressing societal impacts are key concerns.
+
+5- Startups drive innovation with agility and focus, while established firms benefit from resources and production capabilities.
