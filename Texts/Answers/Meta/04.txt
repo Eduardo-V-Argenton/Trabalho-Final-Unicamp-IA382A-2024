@@ -1,0 +1,5 @@
+1- The three main categories of service in 5G's famous triangle are: eMBB (Enhanced Mobile Broadband), URLLC (Ultra-Reliable Low-Latency Communications), and mMTC (Massive Machine-Type Communications).
+2- The ultimate RIS (Reconfigurable Intelligent Surface) architecture envisioned for the future is a fully programmable and autonomous system that can adapt to changing environmental conditions.
+3- The most promising potential applications for RIS are 6G and terahertz communications, indoor and outdoor wireless coverage enhancement, and wireless sensing and tracking.
+4- RIS can improve security in wireless communication systems by acting as a smart jammer to prevent eavesdropping, enhancing physical layer security, and detecting and mitigating malicious attacks.
+5- Potential applications of noise-driven communication in a world with quantum computers include ultra-secure communication, random number generation, and quantum key distribution.

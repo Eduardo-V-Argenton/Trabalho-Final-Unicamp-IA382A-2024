@@ -1,0 +1,12 @@
+1- Traditional methods struggle with scalability, diversity preservation, and handling non-convex, discontinuous, or high-dimensional Pareto fronts.
+
+2- They handle diverse solutions, adapt to complex Pareto fronts, and maintain a population-based search for better diversity and global convergence.
+
+3-
+   - **Pareto-based**: Select solutions based on dominance (e.g., NSGA-II).
+   - **Indicator-based**: Use quality indicators like hypervolume (e.g., IBEA).
+   - **Decomposition-based**: Break objectives into scalar subproblems (e.g., MOEA/D).
+
+4- Hypervolume computation is computationally expensive, especially in high-dimensional objectives.
+
+5- Scalable hypervolume methods, handling many objectives, dynamic and uncertain environments, and hybrid algorithms combining machine learning and EAs.
