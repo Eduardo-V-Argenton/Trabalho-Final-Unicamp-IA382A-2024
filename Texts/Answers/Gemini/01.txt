@@ -1,5 +1,0 @@
-1- immersive extended reality (XR), ultra-reliable low-latency communications (URLLC), massive machine-type communications (mMTC), and AI-driven applications.
-2- 6G traffic demands will be significantly higher due to increased data rates, lower latency, and support for a massive number of devices.
-3- Spectrum allocation challenges for 6G include scarcity, interference, and efficient utilization. Proposed solutions involve dynamic spectrum sharing, cognitive radio, and millimeter-wave and terahertz bands.
-4- An AI-native network for 6G implies integrating AI into all network layers to enable intelligent decision-making, self-optimization, and autonomous operations.
-5- Generative AI could significantly increase data traffic due to the generation of large amounts of synthetic data. Semantic communication technologies can mitigate this by compressing data and transmitting only the essential information.

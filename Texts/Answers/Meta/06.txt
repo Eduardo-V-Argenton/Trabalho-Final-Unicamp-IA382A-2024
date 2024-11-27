@@ -1,5 +1,0 @@
-1- Packet trimming is a technique to reduce latency and improve real-time video streaming by removing unnecessary data from video packets.
-2- Packet trimming works by dynamically adjusting packet sizes, removing redundant data and resynchronizing timestamps.
-3- Benefits include reduced latency, lower bandwidth usage, improved quality and faster video startup times.
-4- Packet trimming adapts to bandwidth fluctuations by adjusting packet sizes and rates in real-time.
-5- Packet trimming focuses on real-time low-latency streaming, whereas DASH (Dynamic Adaptive Streaming over HTTP) prioritizes adaptive bitrate streaming for buffer-free playback.

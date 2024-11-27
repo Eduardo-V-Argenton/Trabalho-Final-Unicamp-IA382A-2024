@@ -1,5 +1,0 @@
-1- Packet trimming is a technique that reduces the size of video packets to fit within a specific bandwidth limit.
-2- It works by removing unnecessary data from video packets, such as redundant frames or lower-resolution video streams.
-3- Benefits include improved video quality, reduced buffering, and smoother playback, especially in low-bandwidth conditions.
-4- Packet trimming can dynamically adjust the level of trimming based on real-time bandwidth measurements, ensuring optimal video quality within the available bandwidth.
-5- Packet trimming focuses on reducing packet size, while DASH (Dynamic Adaptive Streaming over HTTP) is a streaming protocol that adapts the video quality and bitrate to the available bandwidth by switching between different video streams.
