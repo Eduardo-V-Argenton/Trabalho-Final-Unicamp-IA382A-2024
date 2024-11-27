@@ -1,5 +1,0 @@
-1- Enhanced Mobile Broadband (eMBB), Ultra-Reliable Low-Latency Communications (URLLC), and Massive Machine-Type Communications (mMTC).
-2- Fully programmable, dynamically adjustable surfaces integrated into network control.
-3- Signal enhancement, interference cancellation, and coverage extension.
-4- By controlling reflection properties, RIS can mitigate eavesdropping and enable secure beamforming.
-5- Secure quantum-resistant communication and covert data transmission.

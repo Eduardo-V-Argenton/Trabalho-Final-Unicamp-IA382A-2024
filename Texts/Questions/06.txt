@@ -1,5 +1,0 @@
-1- What is packet trimming?
-2- How does packet trimming work?
-3- What are the benefits of using packet trimming?
-4- How does packet trimming handle dynamic bandwidth changes?
-5- What is the difference between packet trimming and DASH?

@@ -1,8 +1,0 @@
-1- **Strengths**: PINNs incorporate physical laws, improve accuracy, and reduce data requirements.
-   **Limitations**: High computational cost, challenging training, and difficulty handling complex physical systems.
-2- The research team moved to ROMs to improve computational efficiency and scalability, especially for large-scale simulations.
-3- **ROMs Acceleration**: ROMs speed up simulations by approximating the system with reduced complexity.
-   **Trade-offs**: Reduced accuracy, especially for complex or non-linear systems.
-4- **Three ML-based Models**: Neural networks, decision trees, and support vector machines.
-   **Operator Inference**: Stands out by learning operators governing physical systems, offering better generalization.
-5- Explore quantum-enhanced optimization and sampling algorithms to improve the accuracy and efficiency of greenhouse gas emission estimations in scientific machine learning.

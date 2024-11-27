@@ -1,0 +1,137 @@
+% Options for packages loaded elsewhere
+
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+Here are the corrected answers, along with insights from the sources to
+enhance your understanding:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Enhanced Mobile Broadband (eMBB), Ultra-Reliable Low-Latency
+  Communications (URLLC), and Massive Machine-Type Communications
+  (mMTC).}
+
+  This is \textbf{correct}. The seminar states that these three service
+  categories form the points of 5G's ``famous triangle.'' By 6G, the
+  vision expands to a hexagon, incorporating additional pillars such as
+  AI integration and integrated sensing and communication.
+\item
+  \textbf{Fully passive surfaces with reconfigurable elements controlled
+  by a software-defined radio.}
+
+  The initial answer is partially correct, but the sources highlight the
+  diverse nature of RIS architectures. Currently, the seminar emphasizes
+  \textbf{passive surfaces} with \textbf{reconfigurable elements} that
+  are \textbf{controlled by software-defined radio}. This means that
+  these surfaces reflect signals without amplifying them and can be
+  adjusted to manipulate signal propagation. However, the speaker
+  envisions future architectures with \textbf{active elements} capable
+  of \textbf{amplification}, and even the possibility of \textbf{hybrid
+  RIS} combining passive and active elements. This evolution suggests a
+  trajectory towards more sophisticated and capable RIS in the future.
+\item
+  \textbf{Signal enhancement and coverage extension, particularly in
+  shadowed areas, using signal reflections.}
+
+  This is more accurate. The sources primarily focus on RIS's ability to
+  \textbf{enhance signals} and \textbf{extend coverage}, especially in
+  \textbf{shadowed areas} where signals struggle to penetrate. This is
+  achieved through \textbf{strategically reflecting signals} to bypass
+  obstacles and reach users more effectively. While \textbf{interference
+  cancellation} is mentioned as a potential application, it is not the
+  main focus of the seminar. The seminar demonstrates, through
+  experiments, that RIS can significantly improve signal strength, with
+  results showing increases of up to 10 dB in specific setups.
+\item
+  \textbf{RIS can be exploited by hackers to degrade signal quality or
+  increase jamming, but it can also be used to enhance security by
+  optimizing signal reflections to favor legitimate users and hinder
+  eavesdroppers.}
+
+  This accurately reflects the seminar's discussion on the security
+  implications of RIS. While it can be a valuable tool for
+  \textbf{enhancing security}, RIS is also vulnerable to
+  \textbf{malicious exploitation}. Hackers could manipulate RIS to
+  \textbf{degrade signal quality}, amplify \textbf{jamming attacks}, or
+  even \textbf{eavesdrop} on communications. However, the seminar also
+  explores how RIS can be used to \textbf{improve security} by
+  \textbf{optimizing signal reflections} to favor legitimate users and
+  create blind spots for eavesdroppers. This highlights the importance
+  of secure RIS control and management to prevent its use for malicious
+  purposes.
+\item
+  \textbf{Secure key generation for short-range, low-rate applications,
+  potentially mitigating the future threat of quantum computers to
+  current cryptographic techniques, particularly in IoT and other
+  resource-constrained devices.}
+
+  This is a more precise description. The seminar positions
+  \textbf{noise-driven communication} as a potential method for
+  \textbf{secure key generation}, but it emphasizes its suitability for
+  \textbf{short-range, low-rate applications} like those commonly found
+  in IoT. It is presented as a way to address the looming threat of
+  \textbf{quantum computers}, which could potentially break the
+  cryptographic techniques widely used today. However, the seminar does
+  not explicitly classify it as ``quantum-resistant communication,''
+  focusing instead on its practicality for resource-constrained devices
+  where implementing robust cryptographic measures might be challenging.
+  The speaker suggests that noise-based systems could be used for key
+  generation within data centers or even between components within a
+  computer, highlighting the potential for localized, secure
+  communication.
+\end{enumerate}
+
+\end{document}

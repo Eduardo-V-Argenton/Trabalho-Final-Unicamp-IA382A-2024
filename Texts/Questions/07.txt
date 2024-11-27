@@ -1,5 +1,0 @@
-1- What are the strengths and limitations of Physics-Informed Neural Networks (PINNs)?
-2- Why did the research team transition from using PINNs to Reduced Order Models (ROMs)?
-3- How do ROMs accelerate simulations and what are their trade-offs?
-4- What are the three prominent machine learning-based models for forecasting and how does operator inference stand out?
-5- What is the proposed roadmap for leveraging quantum computing in scientific machine learning, particularly for greenhouse gas emission estimation?

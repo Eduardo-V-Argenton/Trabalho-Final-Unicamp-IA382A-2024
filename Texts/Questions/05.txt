@@ -1,5 +1,0 @@
-1- What are the limitations of traditional mathematical programming techniques in solving multi-objective optimization problems?
-2- How do evolutionary algorithms address the limitations of traditional methods in multi-objective optimization?
-3- What are the three main families of multi-objective evolutionary algorithms, and how do they differ in their selection mechanisms and density estimators?
-4- What are the computational challenges associated with indicator-based algorithms, particularly those using the hypervolume indicator?
-5- What are some promising areas of research in multi-objective evolutionary algorithms, considering the limitations of existing approaches?

@@ -1,0 +1,161 @@
+% Options for packages loaded elsewhere
+
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+Here are the corrected answers, along with insights from the sources to
+enhance your understanding:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{Enhanced Mobile Broadband (eMBB), Ultra-Reliable Low Latency
+  Communications (URLLC), and Massive Machine-Type Communications
+  (mMTC).}
+
+  This is \textbf{correct}. The seminar mentions that these three
+  service categories make up the points of 5G's ``famous triangle,''
+  representing the key focus areas of 5G technology. Looking ahead to
+  6G, the vision expands to a hexagon, with additional pillars like AI
+  integration and integrated sensing and communication added to the
+  original three. This expansion reflects the changing landscape of
+  wireless communication needs as we move toward 6G and beyond.
+\item
+  \textbf{Reconfigurable Intelligent Surfaces (RIS)}
+
+  The provided answer is close, but needs a slight adjustment. The
+  correct terminology used in the sources is \textbf{Reconfigurable
+  Intelligent Surfaces (RIS)}, not IRIS. This term more accurately
+  reflects the nature of these surfaces -- they are designed to be
+  reconfigurable, allowing for dynamic adjustments to their properties
+  to control and optimize signal propagation.
+\item
+  \textbf{Enhancing wireless coverage and providing secure communication
+  through signal manipulation.}
+
+  This is a more accurate representation based on the information
+  provided in the sources. The seminar heavily emphasizes the ability of
+  RIS to \textbf{enhance wireless coverage}, particularly in areas with
+  weak signal strength or where obstacles impede signal propagation.
+  This is achieved by strategically \textbf{reflecting signals} off the
+  RIS to bypass obstacles and reach users more effectively.
+
+  The sources also discuss the potential of RIS to \textbf{improve
+  security in wireless communication}. By controlling the reflection
+  properties of RIS, it is possible to \textbf{favor legitimate users
+  and hinder eavesdroppers}, making it more difficult for unauthorized
+  parties to intercept sensitive information.
+
+  While \textbf{improving energy efficiency} is a significant
+  consideration in wireless communication systems, the seminar does not
+  explicitly highlight this as a primary benefit of using RIS.
+  Therefore, it's best to focus on the aspects that are directly
+  discussed in the sources.
+\item
+  \textbf{By strategically reflecting and focusing signals, RIS can
+  enhance coverage, mitigate interference, and improve security in
+  wireless communication systems.}
+
+  This statement provides a more precise explanation of how RIS
+  functions to achieve the benefits discussed in the sources. RIS, as
+  the seminar explains, works by \textbf{strategically reflecting and
+  focusing signals}. This capability is the foundation for its various
+  applications:
+
+  \begin{itemize}
+  
+  \item
+    \textbf{Enhancing Coverage:} By reflecting signals around obstacles
+    and directing them towards users in shadowed areas, RIS can
+    significantly improve coverage.
+  \item
+    \textbf{Mitigating Interference:} RIS can also be used to reflect
+    signals away from areas where they might cause interference, thereby
+    improving overall signal quality.
+  \item
+    \textbf{Improving Security:} By strategically focusing signals
+    toward legitimate users and creating blind spots for potential
+    eavesdroppers, RIS can contribute to enhancing the security of
+    wireless communication.
+  \end{itemize}
+
+  The seminar focuses on the practical applications of RIS, emphasizing
+  the role of signal manipulation in achieving desired outcomes.
+\item
+  \textbf{Noise-driven communication could be used for secure
+  communication in short-range, low-rate applications and as a potential
+  solution to the threat of quantum computers, especially for
+  resource-constrained devices like those in IoT.}
+
+  This statement accurately reflects the seminar's discussion of
+  noise-driven communication and its potential applications. The seminar
+  highlights its suitability for \textbf{secure communication in
+  short-range, low-rate applications}, which are commonly found in the
+  Internet of Things (IoT).
+
+  The seminar also emphasizes the looming threat of \textbf{quantum
+  computers}, which could potentially break the widely used
+  cryptographic techniques that protect our digital world today.
+  Noise-driven communication is presented as a possible solution to this
+  challenge, especially for \textbf{resource-constrained devices} where
+  implementing complex cryptographic measures might be challenging.
+
+  While the seminar discusses the use of noise for secure key
+  generation, it does not explicitly claim that noise-driven
+  communication offers ``quantum communication'' capabilities. It is
+  essential to stay within the boundaries of what the sources explicitly
+  state.
+\end{enumerate}
+
+\end{document}

@@ -29,6 +29,7 @@
 \usepackage{tikz}
 \usepackage{titlesec}
 \usepackage{xfrac}
+\usepackage[most]{tcolorbox}
 % \usepackage[alf]{abntEx2cite}   %estilo de referências
 \usepackage[backend=biber]{biblatex}
 \addbibresource{sections/reference.bib}
@@ -82,13 +83,13 @@
 	
 	
 	\subfile{sections/introducao}
-        \subfile{sections/metodologia}
+	\subfile{sections/ias}
+	\subfile{sections/metodologia}
 	\subfile{sections/resultados}
 	\subfile{sections/conclusao}
 	
 	\let\Section\section\def\section*#1{\Section{#1}}
 	% \renewcommand{\refname}{Referências Bibliográficas}
 	% \bibliography{Tarefas/reference.bib}
-	\printbibliography
 
 \end{document}

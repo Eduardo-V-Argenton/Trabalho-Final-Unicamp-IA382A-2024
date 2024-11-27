@@ -1,9 +1,0 @@
-What are the main differences between Artificial General Intelligence (AGI) and Artificial Narrow Intelligence (ANI)?
-
-What are the major hardware limitations hindering the development and widespread use of AGI?
-
-How can emerging hardware technologies like neuromorphic chips and memristors contribute to the development of AGI?
-
-What are the ethical considerations surrounding the development and deployment of AGI, particularly regarding autonomy and control?
-
-What role do startups play in the development of AGI chips, and how do their opportunities compare to those of established companies?
