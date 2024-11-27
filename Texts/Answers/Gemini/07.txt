@@ -1,0 +1,5 @@
+1- PINNs are data-efficient and physics-informed but computationally expensive.
+2- The team transitioned to ROMs for computational efficiency.
+3- ROMs accelerate simulations but can be less accurate.
+4- Operator inference stands out by learning underlying physical laws.
+5- Quantum computing can accelerate scientific machine learning, including greenhouse gas emission estimation.

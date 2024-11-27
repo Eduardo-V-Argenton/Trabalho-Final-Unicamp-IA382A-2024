@@ -1,0 +1,5 @@
+1- Traditional methods struggle with multiple objectives, complex functions, and sensitivity to initial conditions.
+2- Evolutionary algorithms are robust, flexible, and can handle multiple objectives efficiently.
+3- Pareto dominance, aggregation functions, and decomposition are common approaches.
+4- Indicator-based algorithms can be computationally expensive and sensitive to reference points.
+5- Hybrid approaches, dynamic environments, large-scale optimization, uncertainty handling, and multi-objective machine learning are promising research directions.

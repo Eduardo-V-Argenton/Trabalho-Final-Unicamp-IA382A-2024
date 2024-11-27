@@ -1,0 +1,5 @@
+1- Packet trimming refers to the process of removing unnecessary data from packets to reduce their size and improve network efficiency.
+2- It works by discarding parts of the packet that are redundant or not needed for the intended transmission.
+3- It reduces bandwidth usage, lowers latency, and improves overall network performance.
+4- It adapts by trimming packets more aggressively when bandwidth is low, ensuring data transmission stays within available capacity.
+5- Packet trimming focuses on removing unnecessary data from packets, while DASH (Dynamic Adaptive Streaming over HTTP) dynamically adjusts video quality based on network conditions.
